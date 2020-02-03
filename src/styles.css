@@ -10,6 +10,7 @@
 }
 .blue{
   background-color: blue;
+  color: white;
 }
 
 .red{
@@ -20,4 +21,19 @@
 }
 .green{
   background-color: green;
+}
+.no-display{
+  display: none;
+}
+button{
+  font-weight: bolder;
+  width: 100px;
+  height: 50px;
+  transition: all 1s;
+}
+button:hover{
+  font-weight: bolder;
+  width: 120px;
+  height: 60px;
+  box-shadow: 5px 10px 8px #888888;
 }
