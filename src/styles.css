@@ -1,0 +1,23 @@
+
+.box{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 64px;
+  color: white;
+}
+.blue{
+  background-color: blue;
+}
+
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: gold;
+}
+.green{
+  background-color: green;
+}
